@@ -1,0 +1,12 @@
+.object1,
+.object2{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+.object1{
+    background-color: rgb(23, 23, 23);
+    color: rgb(238, 238, 238);
+}
+.object2{
+    background-color: rgb(240, 232, 1);
+}
